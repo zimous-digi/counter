@@ -1,2 +1,11 @@
-test one
-new line
+{
+  "frames" : [
+    {
+      "goalData": {
+        "start": 0,
+        "current": 9274,
+        "end": 10000,
+        "unit": "users"
+    }
+  ]
+}
